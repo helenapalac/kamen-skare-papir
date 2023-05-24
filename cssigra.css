@@ -1,0 +1,40 @@
+body{
+    background-color: rosybrown;
+    font-style: italic;
+}
+#kamen{
+color: blueviolet;
+background-color: aquamarine;
+  
+}
+#papir{
+    color: yellow;
+    background-color:blue
+}
+#skare{
+    color: orangered;
+    background-color:antiquewhite
+   
+}
+h1{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+p{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+#rezultat{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+div{
+    text-align: center;
+    margin-top: 39;
+}
